@@ -1,11 +1,11 @@
-# Heliverse - Task 1
+# Heliverse (Task) - Team Builder
 
 ## Live Link:
 
-- Frontend:
-- Backend:
+- Frontend: https://team-builder-faizul.vercel.app
+- Backend: https://team-builder-server.vercel.app/
 
 ## Github Repository Link:
 
-- Frontend:
-- Backend:
+- Frontend: https://github.com/FaizulOsman/heliverse-task-1
+- Backend: https://github.com/FaizulOsman/heliverse-task-1-server
