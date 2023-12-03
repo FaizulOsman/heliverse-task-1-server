@@ -15,7 +15,7 @@ router.get('/:id', UserController.getSingleUser);
 
 router.delete('/:id', UserController.deleteUser);
 
-router.patch(
+router.put(
   '/:id',
   validateRequest(UserValidation.updateUserZodValidation),
   UserController.updateUser
